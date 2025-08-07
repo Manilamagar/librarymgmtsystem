@@ -47,6 +47,7 @@ const App = () => {
         <Route path='/recommend' element={<RecommendedBooks />} />
         <Route path='/readinghistory' element={<ReadingHistory />} />
         <Route path='/librariandashboard' element={<LibrarianDashboard />} />
+        <Route path='/Slidebar' element={<Slidebar />} />
         {/* <Route path='/biometric' element={<BiometricSetup />} /> */}
       </Routes>
       </BrowserRouter>

@@ -40,7 +40,7 @@ const Navbar = ({ toggleSidebar }) => {
                 </svg>
               </div>
               <h1 className={`ml-3 text-xl font-bold ${scrolled ? 'text-indigo-900' : 'text-indigo-700'}`}>
-                IN College Library
+                INC Pustakalaya
               </h1>
             </motion.div>
           </div>

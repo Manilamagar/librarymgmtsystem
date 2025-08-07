@@ -13,7 +13,7 @@ const Footer = () => {
         
         {/* About / Brand */}
         <div className="space-y-4">
-          <h2 className="text-2xl font-extrabold tracking-wide text-indigo-600">IN College Library</h2>
+          <h2 className="text-2xl font-extrabold tracking-wide text-indigo-600">INC Pustakalaya</h2>
           <p className="text-slate-600 max-w-sm">
             Empowering your knowledge journey with seamless library management and rich resources.
           </p>
@@ -42,7 +42,7 @@ const Footer = () => {
           <p className="text-indigo-600 mb-4 max-w-xs">
             123 Library St, Itahari, Nepal<br />
             Phone: +977 1234 5678<br />
-            Email: info@incollegelibrary.com
+            Email: info@incpustakalaya.com
           </p>
           <div className="flex space-x-5 text-indigo-600">
             <a href="#" aria-label="Facebook" className="hover:text-indigo-800 transition-colors duration-200">
@@ -62,7 +62,7 @@ const Footer = () => {
       </div>
 
       <div className="mt-12 border-t border-indigo-200 pt-6 text-center text-indigo-500 text-sm select-none">
-        &copy; {new Date().getFullYear()} IN College Library. All rights reserved.
+        &copy; {new Date().getFullYear()} INC Pustakalaya. All rights reserved.
       </div>
     </footer>
   );

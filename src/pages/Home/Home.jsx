@@ -53,7 +53,7 @@ const Hero = () => {
                 className="text-5xl sm:text-6xl font-extrabold text-slate-900 leading-tight tracking-tight"
               >
                 Welcome to <br />
-                <span className="text-indigo-600">Library Management System</span>
+                <span className="text-indigo-600">INC Pustakalaya</span>
               </motion.h1>
 
               <motion.p
